@@ -111,6 +111,10 @@ a:hover {
     font-size: 120%;
   }
 
+  h1 {
+    padding-top: 2rem;
+  }
+
   .content {
     padding-left: .8rem;
     padding-right: .5rem;
