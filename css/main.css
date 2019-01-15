@@ -55,7 +55,7 @@ h2 {
 }
 
 a:hover {
-  background-color:yellow;
+  background-color: yellow;
 }
 
 @media only screen and (min-width: 38em) {
@@ -76,6 +76,7 @@ a:hover {
     display: inline-block;
     max-width: 48%;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -86,7 +87,7 @@ a:hover {
   }
 
   .div {
-    padding-left: 0.8rem;
+    padding-left: .8rem;
     padding-right: .5rem;
     padding-top: .5rem;
     padding-bottom: .5rem;
@@ -118,7 +119,6 @@ a:hover {
   body {
     margin-left: 5rem;
     margin-right: 5rem;
-
   }
 
 }
