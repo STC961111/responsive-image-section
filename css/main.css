@@ -65,14 +65,14 @@ a:hover {
     font-size: 110%;
   }
 
-  div {
+  .div {
     margin-top: 1rem;
     display: inline-block;
     text-align: left;
     max-width: 45%;
   }
 
-  div-2 {
+  .div-2 {
     display: inline-block;
     max-width: 48%;
   }
@@ -86,7 +86,7 @@ a:hover {
     font-size: 120%;
   }
 
-  div {
+  .div {
     padding-left: .8rem;
     padding-right: .5rem;
     padding-top: .5rem;
@@ -100,7 +100,7 @@ a:hover {
     vertical-align: middle;
   }
 
-  div-2 {
+  .div-2 {
     margin-top: 2rem;
     display: inline-block;
     max-width: 49%;
