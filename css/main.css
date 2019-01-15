@@ -76,6 +76,10 @@ a:hover {
     font-size: 110%;
   }
 
+  h1 {
+    padding-top: 2rem;
+  }
+
   a {
     background-color: #555;
     border-radius: 4px;
