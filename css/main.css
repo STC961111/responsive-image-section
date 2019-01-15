@@ -22,8 +22,7 @@ html {
 }
 
 body {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin: 0;
   background-color: #e2e2e2;
 }
 
@@ -81,7 +80,7 @@ a:hover {
     background-color: #555;
     border-radius: 4px;
     color: white;
-    margin-top: 100rem;
+    margin-top: 1rem;
   }
 
   .content {
