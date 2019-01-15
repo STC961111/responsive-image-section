@@ -80,7 +80,8 @@ a:hover {
     background-color: #555;
     border-radius: 4px;
     color: white;
-    margin-top: 10rem;
+    position: absolute;
+    top: 40%
   }
 
   .content {
