@@ -76,6 +76,16 @@ a:hover {
     font-size: 110%;
   }
 
+  a {
+    padding: .5em .75em;
+    background-color: #555;
+    border-radius: 4px;
+    color: white;
+    text-decoration: none;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
   .content {
     margin-top: 1rem;
     display: inline-block;
