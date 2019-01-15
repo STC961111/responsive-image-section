@@ -57,6 +57,7 @@ a {
 
 .img-flex {
   text-align: center;
+  margin-top: 1rem;
   display: block;
   width: 100%;
 }
