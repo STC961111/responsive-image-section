@@ -80,14 +80,16 @@ a:hover {
     margin-top: 1rem;
     display: inline-block;
     text-align: left;
-    max-width: 45%;
+    max-width: 25em;
+    width: 48%;
   }
 
   .photo {
     margin-top: 1rem;
     display: inline-block;
-    max-width: 49%;
     vertical-align: middle;
+    max-width: 25em;
+    width: 48%;
   }
 
 }
