@@ -48,14 +48,13 @@ h2 {
   text-decoration: none;
 }
 
- .img-flex{
+.img-flex {
   text-align: center;
   display: inline-block;
   width: 100%;
 }
 
- a:hover
-{
+ a:hover {
 background-color:yellow;
 }
 
