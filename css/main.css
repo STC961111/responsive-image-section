@@ -78,9 +78,9 @@ a:hover {
 
   a {
     background-color: #555;
-    border-radius: 5px;
+    border-radius: 4px;
     color: white;
-    margin-top: 1rem;
+    margin-top: 10rem;
   }
 
   .content {
