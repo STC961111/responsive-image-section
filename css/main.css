@@ -72,7 +72,7 @@ a:hover {
     max-width: 45%;
   }
 
-  .div_pic {
+  .div-pic {
     display: inline-block;
     max-width: 48%;
   }
@@ -100,7 +100,7 @@ a:hover {
     vertical-align: middle;
   }
 
-  .div_pic {
+  .div-pic {
     margin-top: 2rem;
     display: inline-block;
     max-width: 49%;
