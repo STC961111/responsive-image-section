@@ -48,13 +48,13 @@ h2 {
   text-decoration: none;
 }
 
-.img-flex{
+ .img-flex{
   text-align: center;
   display: inline-block;
   width: 100%;
 }
 
-a:hover
+ a:hover
 {
 background-color:yellow;
 }
@@ -76,7 +76,6 @@ background-color:yellow;
   .div_pic {
     display: inline-block;
     max-width: 48%;
-
   }
 }
 
@@ -122,6 +121,5 @@ background-color:yellow;
     margin-right: 5rem;
 
   }
-
 
 }
