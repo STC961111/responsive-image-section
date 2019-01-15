@@ -65,6 +65,10 @@ a:hover {
   background-color: yellow;
 }
 
+.content {
+  margin-bottom: 1rem;
+}
+
 @media only screen and (min-width: 38em) {
 
   html {
@@ -72,14 +76,14 @@ a:hover {
     font-size: 110%;
   }
 
-  .div {
+  .content {
     margin-top: 1rem;
     display: inline-block;
     text-align: left;
     max-width: 45%;
   }
 
-  .div-2 {
+  .photo {
     display: inline-block;
     max-width: 48%;
   }
@@ -93,7 +97,7 @@ a:hover {
     font-size: 120%;
   }
 
-  .div {
+  .content {
     padding-left: .8rem;
     padding-right: .5rem;
     padding-top: .5rem;
@@ -107,7 +111,7 @@ a:hover {
     vertical-align: middle;
   }
 
-  .div-2 {
+  .photo {
     margin-top: 2rem;
     display: inline-block;
     max-width: 49%;
