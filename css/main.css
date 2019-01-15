@@ -26,8 +26,9 @@ body {
   background-color: #e2e2e2;
 }
 
-article {
+section {
   vertical-align: middle;
+  padding: 1rem 0;
 }
 
 h2 {
