@@ -92,6 +92,8 @@ a:hover {
     vertical-align: middle;
     margin-bottom: 2rem;
     margin-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
   }
 
   .photo {
@@ -99,7 +101,7 @@ a:hover {
     display: inline-block;
     vertical-align: middle;
     max-width: 25em;
-    width: 50%;
+    width: 48%;
   }
 
 }
