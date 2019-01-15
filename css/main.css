@@ -84,8 +84,10 @@ a:hover {
   }
 
   .photo {
+    margin-top: 1rem;
     display: inline-block;
-    max-width: 48%;
+    max-width: 49%;
+    vertical-align: middle;
   }
 
 }
@@ -110,15 +112,6 @@ a:hover {
     max-width: 45%;
     vertical-align: middle;
   }
-
-  .photo {
-    margin-top: 2rem;
-    display: inline-block;
-    max-width: 49%;
-    vertical-align: middle;
-  }
-
-}
 
 @media only screen and (min-width: 90em) {
 
