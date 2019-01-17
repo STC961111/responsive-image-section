@@ -95,10 +95,9 @@ a:hover {
   }
 
   .photo {
-    margin-top: 1rem;
     display: inline-block;
     vertical-align: middle;
-    max-width: 50%;
+    max-width: 48%;
   }
 
 }
