@@ -84,8 +84,14 @@ a:hover {
   }
 
   .content {
+    margin-top: 1rem;
     display: inline-block;
+    text-align: left;
     max-width: 25em;
+    width: 48%;
+    vertical-align: middle;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
   }
 
   .photo {
